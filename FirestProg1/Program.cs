@@ -10,7 +10,7 @@ namespace FirestProg1
     {
         static void Main(string[] args)
         {
-            //Console.Write("Hello world");
+            //this is my firest ptorame
             Console.Write("Hello world");
             Console.ReadKey();
         }
